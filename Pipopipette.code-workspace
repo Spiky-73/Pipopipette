@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"extension-profiles.activeProfiles": [
+			"Python",
+			"Always On",
+			"GitHub"
+		]
+	}
+}
